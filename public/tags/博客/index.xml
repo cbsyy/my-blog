@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>博客 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on My New Hugo Site</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2024 10:23:57 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 10 Dec 2024 10:23:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;categories-随笔&#34;&gt;title: &amp;ldquo;我的第一篇博客文章&amp;rdquo;
-date: 2024-12-10
-draft: false
-tags: [&amp;ldquo;博客&amp;rdquo;]
-categories: [&amp;ldquo;随笔&amp;rdquo;]&lt;/h2&gt;
-&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;
-&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
-&lt;p&gt;在这里写一些你想说的话&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;我的计划&#34;&gt;我的计划&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;分享有趣的想法&lt;/li&gt;
-&lt;li&gt;记录学习过程&lt;/li&gt;
-&lt;li&gt;结识志同道合的朋友&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建和维护Hugo博客完全指南</title>
       <link>http://localhost:1313/posts/hugo-blog-guide/</link>
